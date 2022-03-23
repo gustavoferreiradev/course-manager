@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="CourseManager title="CourseManager" src="#" />
+    <img alt="CourseManager" title="CourseManager" src="#" />
 </h1>
 
 <p align="center">
